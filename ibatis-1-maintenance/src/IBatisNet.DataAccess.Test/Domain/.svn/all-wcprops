@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/Domain
+END
+Other.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/Domain/Other.cs
+END
+LineItemCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/Domain/LineItemCollection.cs
+END
+Search.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/Domain/Search.cs
+END
+LineItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/Domain/LineItem.cs
+END
+Enumeration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/Domain/Enumeration.cs
+END
+Complex.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/Domain/Complex.cs
+END
+AccountCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/Domain/AccountCollection.cs
+END
+AccountBis.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/Domain/AccountBis.cs
+END
+Order.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/Domain/Order.cs
+END
+Account.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/Domain/Account.cs
+END
+Category.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/Domain/Category.cs
+END
+User.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/Domain/User.cs
+END

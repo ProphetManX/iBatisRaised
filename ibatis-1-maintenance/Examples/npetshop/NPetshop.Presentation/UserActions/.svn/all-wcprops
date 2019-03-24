@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Presentation/UserActions
+END
+ShoppinAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Presentation/UserActions/ShoppinAction.cs
+END
+DataViews.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Presentation/UserActions/DataViews.cs
+END
+BillinAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Presentation/UserActions/BillinAction.cs
+END
+CatalogAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Presentation/UserActions/CatalogAction.cs
+END
+ShowStartPageAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Presentation/UserActions/ShowStartPageAction.cs
+END
+AccountAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Presentation/UserActions/AccountAction.cs
+END
+WebViews.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Presentation/UserActions/WebViews.cs
+END

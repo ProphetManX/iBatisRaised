@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/Domain
+END
+BaseDomain.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/Domain/BaseDomain.cs
+END
+IBaseDomain.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/Domain/IBaseDomain.cs
+END
+Order.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/Domain/Order.cs
+END
+Document.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/Domain/Document.cs
+END
+User.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/Domain/User.cs
+END
+Property.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/Domain/Property.cs
+END
+Address.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/Domain/Address.cs
+END
+IUser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/Domain/IUser.cs
+END
+GenericDocumentCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/Domain/GenericDocumentCollection.cs
+END
+Simple.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/Domain/Simple.cs
+END
+DocumentCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/Domain/DocumentCollection.cs
+END
+Book.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/Domain/Book.cs
+END
+Account.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/Domain/Account.cs
+END
+IAddress.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/Domain/IAddress.cs
+END
+Item.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/Domain/Item.cs
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/106/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess
+END
+licence.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess/licence.txt
+END
+MessageManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess/MessageManager.cs
+END
+SessionHolder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess/SessionHolder.cs
+END
+DaoConfig.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess/DaoConfig.xsd
+END
+IBatisNet.DataAccess.Net35.2010.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/51/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess/IBatisNet.DataAccess.Net35.2010.csproj
+END
+IBatisNet.DataAccess.Net45.2012.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/106/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess/IBatisNet.DataAccess.Net45.2012.csproj
+END
+IBatisNet.DataAccess.2010.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/100/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess/IBatisNet.DataAccess.2010.csproj
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess/AssemblyInfo.cs
+END
+notice.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess/notice.txt
+END
+IBatisNet.DataAccess.2005.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess/IBatisNet.DataAccess.2005.csproj
+END
+DaoManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/100/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess/DaoManager.cs
+END
+ChangeLog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess/ChangeLog.txt
+END
+IBatisNet.DataAccess.build
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess/IBatisNet.DataAccess.build
+END
+IDaoManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess/IDaoManager.cs
+END
+DaoSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess/DaoSession.cs
+END
+IBatisNet.DataAccess.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess/IBatisNet.DataAccess.csproj
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Web/UserControls/Billing
+END
+Payment.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Web/UserControls/Billing/Payment.ascx
+END
+BillUI.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Web/UserControls/Billing/BillUI.ascx
+END
+Shipping.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Web/UserControls/Billing/Shipping.ascx
+END
+Payment.ascx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Web/UserControls/Billing/Payment.ascx.cs
+END
+Bill.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Web/UserControls/Billing/Bill.ascx
+END
+BillUI.ascx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Web/UserControls/Billing/BillUI.ascx.cs
+END
+Shipping.ascx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Web/UserControls/Billing/Shipping.ascx.cs
+END
+Bill.ascx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Web/UserControls/Billing/Bill.ascx.cs
+END
+Confirmation.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Web/UserControls/Billing/Confirmation.ascx
+END
+Confirmation.ascx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Web/UserControls/Billing/Confirmation.ascx.cs
+END
+Payment.ascx.resx
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Web/UserControls/Billing/Payment.ascx.resx
+END
+BillUI.ascx.resx
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Web/UserControls/Billing/BillUI.ascx.resx
+END
+Shipping.ascx.resx
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Web/UserControls/Billing/Shipping.ascx.resx
+END
+Bill.ascx.resx
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Web/UserControls/Billing/Bill.ascx.resx
+END
+Confirmation.ascx.resx
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Web/UserControls/Billing/Confirmation.ascx.resx
+END

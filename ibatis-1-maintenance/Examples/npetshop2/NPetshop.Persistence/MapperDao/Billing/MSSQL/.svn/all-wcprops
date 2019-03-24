@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop2/NPetshop.Persistence/MapperDao/Billing/MSSQL
+END
+OrderSqlMapDao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop2/NPetshop.Persistence/MapperDao/Billing/MSSQL/OrderSqlMapDao.cs
+END
+SequenceSqlMapDao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop2/NPetshop.Persistence/MapperDao/Billing/MSSQL/SequenceSqlMapDao.cs
+END

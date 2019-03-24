@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/NUnit/CommonTests/Utilities
+END
+ObjectFactoryTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/NUnit/CommonTests/Utilities/ObjectFactoryTest.cs
+END
+Timer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/NUnit/CommonTests/Utilities/Timer.cs
+END
+ProtectedFieldAccessorTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/NUnit/CommonTests/Utilities/ProtectedFieldAccessorTest.cs
+END
+BaseMemberTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/NUnit/CommonTests/Utilities/BaseMemberTest.cs
+END
+TypeUtilsTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/NUnit/CommonTests/Utilities/TypeUtilsTest.cs
+END
+TypeResolverTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/NUnit/CommonTests/Utilities/TypeResolverTest.cs
+END
+PublicFieldAccessorTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/NUnit/CommonTests/Utilities/PublicFieldAccessorTest.cs
+END
+ReflectionInfoTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/NUnit/CommonTests/Utilities/ReflectionInfoTest.cs
+END
+FieldAccessorTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/NUnit/CommonTests/Utilities/FieldAccessorTest.cs
+END
+PropertyAccessorTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/NUnit/CommonTests/Utilities/PropertyAccessorTest.cs
+END
+PropertyAccessorPerformance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/NUnit/CommonTests/Utilities/PropertyAccessorPerformance.cs
+END
+ResourcesTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/NUnit/CommonTests/Utilities/ResourcesTest.cs
+END

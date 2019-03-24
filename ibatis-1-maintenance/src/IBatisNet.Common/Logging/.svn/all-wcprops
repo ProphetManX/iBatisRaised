@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Logging
+END
+ConfigurationSectionHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Logging/ConfigurationSectionHandler.cs
+END
+ILog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Logging/ILog.cs
+END
+LogManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Logging/LogManager.cs
+END
+IDbCommandProxy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Logging/IDbCommandProxy.cs
+END
+LogSetting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Logging/LogSetting.cs
+END
+IDbConnectionProxy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Logging/IDbConnectionProxy.cs
+END
+ILoggerFactoryAdapter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Logging/ILoggerFactoryAdapter.cs
+END
+IDataReaderProxy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Logging/IDataReaderProxy.cs
+END

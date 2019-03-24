@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities
+END
+HashCodeProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/HashCodeProvider.cs
+END
+DBHelperParameterCache.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/DBHelperParameterCache.cs
+END
+Resources.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Resources.cs
+END
+ScriptRunner.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/ScriptRunner.cs
+END
+StringTokenizer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/StringTokenizer.cs
+END
+ConfigWatcherHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/ConfigWatcherHandler.cs
+END
+TypeUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/TypeUtils.cs
+END

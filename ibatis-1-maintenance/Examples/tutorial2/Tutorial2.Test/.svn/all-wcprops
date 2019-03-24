@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/tutorial2/Tutorial2.Test
+END
+TestBlogService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/tutorial2/Tutorial2.Test/TestBlogService.cs
+END
+Tutorial2.Test.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/tutorial2/Tutorial2.Test/Tutorial2.Test.csproj
+END
+TestDataMapper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/tutorial2/Tutorial2.Test/TestDataMapper.cs
+END
+TestManualPresenterMock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/tutorial2/Tutorial2.Test/TestManualPresenterMock.cs
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/tutorial2/Tutorial2.Test/App.config
+END

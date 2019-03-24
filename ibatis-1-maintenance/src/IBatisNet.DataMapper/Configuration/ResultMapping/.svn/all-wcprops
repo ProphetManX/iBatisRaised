@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/62/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/ResultMapping
+END
+ResultMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/ResultMapping/ResultMap.cs
+END
+ResultPropertyCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/ResultMapping/ResultPropertyCollection.cs
+END
+DynamicResultMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/62/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/ResultMapping/DynamicResultMap.cs
+END
+ResultProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/ResultMapping/ResultProperty.cs
+END
+AutoResultMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/ResultMapping/AutoResultMap.cs
+END
+IResultMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/ResultMapping/IResultMap.cs
+END
+IColumn.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/ResultMapping/IColumn.cs
+END
+SubMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/ResultMapping/SubMap.cs
+END
+Discriminator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/ResultMapping/Discriminator.cs
+END
+ArgumentProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/ResultMapping/ArgumentProperty.cs
+END
+NullResultMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/ResultMapping/NullResultMap.cs
+END
+ResultMapCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/ResultMapping/ResultMapCollection.cs
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/CacheController
+END
+MemoryCacheControllerTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/CacheController/MemoryCacheControllerTest.cs
+END
+CacheModelTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/CacheController/CacheModelTest.cs
+END
+LruCacheControllerTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/CacheController/LruCacheControllerTest.cs
+END
+FifoCacheControllerTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/CacheController/FifoCacheControllerTest.cs
+END

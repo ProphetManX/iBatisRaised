@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/17/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/Access/OleDb
+END
+DynamicAccount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/Access/OleDb/DynamicAccount.xml
+END
+Other.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/Access/OleDb/Other.xml
+END
+ResultClass.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/Access/OleDb/ResultClass.xml
+END
+LineItem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/Access/OleDb/LineItem.xml
+END
+ParameterClass.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/Access/OleDb/ParameterClass.xml
+END
+Enumeration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/Access/OleDb/Enumeration.xml
+END
+Complex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/Access/OleDb/Complex.xml
+END
+Order.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/Access/OleDb/Order.xml
+END
+Account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/17/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/Access/OleDb/Account.xml
+END
+Category.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/Access/OleDb/Category.xml
+END
+Document.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/Access/OleDb/Document.xml
+END
+Nullable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/Access/OleDb/Nullable.xml
+END

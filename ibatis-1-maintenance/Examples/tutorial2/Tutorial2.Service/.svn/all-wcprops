@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/tutorial2/Tutorial2.Service
+END
+BlogService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/tutorial2/Tutorial2.Service/BlogService.cs
+END
+IBlogService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/tutorial2/Tutorial2.Service/IBlogService.cs
+END
+Tutorial2.Service.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/tutorial2/Tutorial2.Service/Tutorial2.Service.csproj
+END

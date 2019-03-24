@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/17/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/PostgreSQL/Npgsql
+END
+Category.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/PostgreSQL/Npgsql/Category.xml
+END
+Document.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/PostgreSQL/Npgsql/Document.xml
+END
+Nullable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/PostgreSQL/Npgsql/Nullable.xml
+END
+DynamicAccount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/PostgreSQL/Npgsql/DynamicAccount.xml
+END
+Other.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/PostgreSQL/Npgsql/Other.xml
+END
+ResultClass.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/PostgreSQL/Npgsql/ResultClass.xml
+END
+LineItem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/PostgreSQL/Npgsql/LineItem.xml
+END
+ParameterClass.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/PostgreSQL/Npgsql/ParameterClass.xml
+END
+Enumeration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/PostgreSQL/Npgsql/Enumeration.xml
+END
+Complex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/PostgreSQL/Npgsql/Complex.xml
+END
+Simple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/PostgreSQL/Npgsql/Simple.xml
+END
+Order.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/PostgreSQL/Npgsql/Order.xml
+END
+Account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/17/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/PostgreSQL/Npgsql/Account.xml
+END

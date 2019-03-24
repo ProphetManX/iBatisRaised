@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop2/NPetshop.Persistence/Maps
+END
+Order.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop2/NPetshop.Persistence/Maps/Order.xml
+END
+Account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop2/NPetshop.Persistence/Maps/Account.xml
+END
+Category.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop2/NPetshop.Persistence/Maps/Category.xml
+END
+Item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop2/NPetshop.Persistence/Maps/Item.xml
+END
+Product.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop2/NPetshop.Persistence/Maps/Product.xml
+END
+LineItem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop2/NPetshop.Persistence/Maps/LineItem.xml
+END
+Sequence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop2/NPetshop.Persistence/Maps/Sequence.xml
+END

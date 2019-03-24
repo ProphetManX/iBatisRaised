@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/100/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/SessionStore
+END
+InstanceItems-net20.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/35/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/SessionStore/InstanceItems-net20.cs
+END
+WebSessionStore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/SessionStore/WebSessionStore.cs
+END
+WcfSessionStore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/16/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/SessionStore/WcfSessionStore.cs
+END
+CallContextSessionStore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/SessionStore/CallContextSessionStore.cs
+END
+AbstractSessionStore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/SessionStore/AbstractSessionStore.cs
+END
+InstanceItems.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/33/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/SessionStore/InstanceItems.cs
+END
+WcfSessionItemsInstanceExtension.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/16/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/SessionStore/WcfSessionItemsInstanceExtension.cs
+END
+HybridWebThreadSessionStore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/100/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/SessionStore/HybridWebThreadSessionStore.cs
+END
+SessionStoreFactory .cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/100/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/SessionStore/SessionStoreFactory%20.cs
+END
+ThreadSessionStore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/89/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/SessionStore/ThreadSessionStore.cs
+END
+ISessionStore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/SessionStore/ISessionStore.cs
+END

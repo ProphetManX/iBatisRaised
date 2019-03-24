@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/Cache
+END
+CacheModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/Cache/CacheModel.cs
+END
+FlushInterval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/Cache/FlushInterval.cs
+END
+CacheKey.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/Cache/CacheKey.cs
+END
+ICacheController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/Cache/ICacheController.cs
+END

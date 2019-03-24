@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Persistence/Interfaces/Catalog
+END
+ICategoryDao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Persistence/Interfaces/Catalog/ICategoryDao.cs
+END
+IItemDao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Persistence/Interfaces/Catalog/IItemDao.cs
+END
+IProductDao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop/NPetshop.Persistence/Interfaces/Catalog/IProductDao.cs
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/100/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Proxy
+END
+LazyListGeneric.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Proxy/LazyListGeneric.cs
+END
+LazyLoadProxyFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/100/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Proxy/LazyLoadProxyFactory.cs
+END
+LazyList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Proxy/LazyList.cs
+END
+LazyFactoryBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Proxy/LazyFactoryBuilder.cs
+END
+LazyLoadInterceptor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/100/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Proxy/LazyLoadInterceptor.cs
+END
+LazyListGenericFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Proxy/LazyListGenericFactory.cs
+END
+ILazyFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Proxy/ILazyFactory.cs
+END
+LazyListFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Proxy/LazyListFactory.cs
+END

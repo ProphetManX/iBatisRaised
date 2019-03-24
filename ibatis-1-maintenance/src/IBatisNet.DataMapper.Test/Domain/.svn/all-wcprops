@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain
+END
+Item.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Item.cs
+END
+Nullable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Nullable.cs
+END
+VarcharCallBack.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/VarcharCallBack.cs
+END
+Newspaper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Newspaper.cs
+END
+Search.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Search.cs
+END
+LineItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/LineItem.cs
+END
+Complex.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Complex.cs
+END
+AccountCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/AccountCollection.cs
+END
+OneZeroBoolTypeHandlerCallback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/OneZeroBoolTypeHandlerCallback.cs
+END
+Order.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Order.cs
+END
+Category.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Category.cs
+END
+User.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/User.cs
+END
+Product.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Product.cs
+END
+A.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/A.cs
+END
+Other.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Other.cs
+END
+C.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/C.cs
+END
+Child.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Child.cs
+END
+E.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/E.cs
+END
+Address.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Address.cs
+END
+ImmutableCategoryPropertyContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/ImmutableCategoryPropertyContainer.cs
+END
+Enumeration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Enumeration.cs
+END
+AccountBis.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/AccountBis.cs
+END
+Book.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Book.cs
+END
+DocumentCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/DocumentCollection.cs
+END
+Account.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Account.cs
+END
+GuidStringTypeHandlerCallback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/GuidStringTypeHandlerCallback.cs
+END
+OuiNonBoolTypeHandlerCallback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/OuiNonBoolTypeHandlerCallback.cs
+END
+Role.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Role.cs
+END
+Application.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Application.cs
+END
+Coupon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Coupon.cs
+END
+LineItemCollection2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/LineItemCollection2.cs
+END
+Query.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Query.cs
+END
+ImmutableCategory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/ImmutableCategory.cs
+END
+Document.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Document.cs
+END
+B.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/B.cs
+END
+Sample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Sample.cs
+END
+LineItemCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/LineItemCollection.cs
+END
+D.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/D.cs
+END
+CustomInheritance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/CustomInheritance.cs
+END
+F.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/F.cs
+END
+Simple.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Simple.cs
+END
+Parent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/Parent.cs
+END
+HundredsTypeHandlerCallback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Domain/HundredsTypeHandlerCallback.cs
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/Dao/Implementations/Ado
+END
+MySqlAccountDao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/Dao/Implementations/Ado/MySqlAccountDao.cs
+END
+OracleAccountDao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/Dao/Implementations/Ado/OracleAccountDao.cs
+END
+AccountDao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/Dao/Implementations/Ado/AccountDao.cs
+END

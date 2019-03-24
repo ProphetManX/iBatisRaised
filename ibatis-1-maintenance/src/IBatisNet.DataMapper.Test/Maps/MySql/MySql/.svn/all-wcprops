@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/17/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/MySql/MySql
+END
+Document.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/MySql/MySql/Document.xml
+END
+Nullable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/MySql/MySql/Nullable.xml
+END
+DynamicAccount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/MySql/MySql/DynamicAccount.xml
+END
+Other.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/MySql/MySql/Other.xml
+END
+ResultClass.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/MySql/MySql/ResultClass.xml
+END
+LineItem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/MySql/MySql/LineItem.xml
+END
+ParameterClass.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/MySql/MySql/ParameterClass.xml
+END
+Enumeration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/MySql/MySql/Enumeration.xml
+END
+Complex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/MySql/MySql/Complex.xml
+END
+Simple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/MySql/MySql/Simple.xml
+END
+Order.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/MySql/MySql/Order.xml
+END
+Account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/17/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/MySql/MySql/Account.xml
+END
+Category.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/MySql/MySql/Category.xml
+END

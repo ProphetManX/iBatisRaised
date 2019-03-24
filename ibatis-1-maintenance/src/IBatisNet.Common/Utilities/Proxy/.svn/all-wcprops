@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Proxy
+END
+CachedProxyGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Proxy/CachedProxyGenerator.cs
+END
+ProxyGeneratorFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Proxy/ProxyGeneratorFactory.cs
+END
+IProxyGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Proxy/IProxyGenerator.cs
+END

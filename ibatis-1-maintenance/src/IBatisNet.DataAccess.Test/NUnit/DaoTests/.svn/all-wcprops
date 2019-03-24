@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/NUnit/DaoTests
+END
+BaseDaoTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/NUnit/DaoTests/BaseDaoTest.cs
+END
+SqlMapDaoTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/NUnit/DaoTests/SqlMapDaoTest.cs
+END
+NHibernateDaoTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/NUnit/DaoTests/NHibernateDaoTest.cs
+END
+MutipleDaoTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/NUnit/DaoTests/MutipleDaoTest.cs
+END

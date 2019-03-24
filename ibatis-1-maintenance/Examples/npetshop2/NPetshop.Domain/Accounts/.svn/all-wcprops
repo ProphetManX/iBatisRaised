@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop2/NPetshop.Domain/Accounts
+END
+Account.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop2/NPetshop.Domain/Accounts/Account.cs
+END
+Profile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop2/NPetshop.Domain/Accounts/Profile.cs
+END
+Address.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop2/NPetshop.Domain/Accounts/Address.cs
+END

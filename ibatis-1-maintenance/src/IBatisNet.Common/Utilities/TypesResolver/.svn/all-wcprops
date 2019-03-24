@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/TypesResolver
+END
+TypeResolver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/TypesResolver/TypeResolver.cs
+END
+TypeRegistry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/TypesResolver/TypeRegistry.cs
+END
+CachedTypeResolver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/TypesResolver/CachedTypeResolver.cs
+END
+ITypeResolver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/TypesResolver/ITypeResolver.cs
+END

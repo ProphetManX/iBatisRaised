@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/PostgreSQL
+END
+StatementTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/PostgreSQL/StatementTest.cs
+END
+StatementGenerate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/PostgreSQL/StatementGenerate.cs
+END

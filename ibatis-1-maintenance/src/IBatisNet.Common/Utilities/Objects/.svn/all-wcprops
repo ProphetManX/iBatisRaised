@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Objects
+END
+DelegateFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Objects/DelegateFactory.cs
+END
+BoxingOpCodes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Objects/BoxingOpCodes.cs
+END
+ActivatorFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Objects/ActivatorFactory.cs
+END
+ReflectionInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Objects/ReflectionInfo.cs
+END
+IObjectFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Objects/IObjectFactory.cs
+END
+DelegateObjectFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Objects/DelegateObjectFactory.cs
+END
+FactoryLogAdapter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Objects/FactoryLogAdapter.cs
+END
+AbstractFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Objects/AbstractFactory.cs
+END
+ActivatorObjectFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Objects/ActivatorObjectFactory.cs
+END
+EmitObjectFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Objects/EmitObjectFactory.cs
+END
+ObjectFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Objects/ObjectFactory.cs
+END
+FactoryBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Objects/FactoryBuilder.cs
+END
+ObjectProbe.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Objects/ObjectProbe.cs
+END
+IFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Utilities/Objects/IFactory.cs
+END

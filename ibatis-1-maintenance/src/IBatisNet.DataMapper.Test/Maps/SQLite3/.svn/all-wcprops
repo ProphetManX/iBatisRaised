@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/109/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3
+END
+Coupons.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/79/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/Coupons.xml
+END
+Enumeration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/79/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/Enumeration.xml
+END
+ConstructorInjection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/79/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/ConstructorInjection.xml
+END
+Simple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/79/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/Simple.xml
+END
+Account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/79/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/Account.xml
+END
+Nullable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/79/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/Nullable.xml
+END
+DynamicAccount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/79/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/DynamicAccount.xml
+END
+GroupByMapping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/79/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/GroupByMapping.xml
+END
+ResultClass.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/109/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/ResultClass.xml
+END
+NewsPaper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/79/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/NewsPaper.xml
+END
+LineItem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/79/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/LineItem.xml
+END
+ParameterClass.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/79/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/ParameterClass.xml
+END
+Complex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/79/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/Complex.xml
+END
+Order.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/79/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/Order.xml
+END
+EmbedParameter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/79/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/EmbedParameter.xml
+END
+Category.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/83/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/Category.xml
+END
+ParentChild1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/79/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/ParentChild1.xml
+END
+Document.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/79/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/Document.xml
+END
+ParentChild2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/79/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/ParentChild2.xml
+END
+Other.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/79/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/Other.xml
+END
+MapModule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/94/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/Maps/SQLite3/MapModule.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop2/NPetshop.Domain/Billing
+END
+Order.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop2/NPetshop.Domain/Billing/Order.cs
+END
+CreditCard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop2/NPetshop.Domain/Billing/CreditCard.cs
+END
+LineItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/Examples/npetshop2/NPetshop.Domain/Billing/LineItem.cs
+END

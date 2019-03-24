@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/67/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/Statements
+END
+IStatement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/Statements/IStatement.cs
+END
+PreparedStatementFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/67/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/Statements/PreparedStatementFactory.cs
+END
+Select.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/Statements/Select.cs
+END
+Update.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/Statements/Update.cs
+END
+Delete.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/Statements/Delete.cs
+END
+Insert.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/Statements/Insert.cs
+END
+Statement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/Statements/Statement.cs
+END
+SqlGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/Statements/SqlGenerator.cs
+END
+PreparedStatement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/Statements/PreparedStatement.cs
+END
+Procedure.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/Statements/Procedure.cs
+END
+SelectKey.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/Statements/SelectKey.cs
+END
+Generate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper/Configuration/Statements/Generate.cs
+END

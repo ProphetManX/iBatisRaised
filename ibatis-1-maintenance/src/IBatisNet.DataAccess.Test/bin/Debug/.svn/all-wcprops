@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/bin/Debug
+END
+SqlMap_MSSQL_Odbc.config
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/bin/Debug/SqlMap_MSSQL_Odbc.config
+END
+SqlMap_MySql_ByteFx.config
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/bin/Debug/SqlMap_MySql_ByteFx.config
+END
+IBatisNet.DataAccess.Test.dll.config
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/bin/Debug/IBatisNet.DataAccess.Test.dll.config
+END
+SqlMap_Oracle_OracleClient.config
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/bin/Debug/SqlMap_Oracle_OracleClient.config
+END
+dao_MSSQL_Odbc.config
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/bin/Debug/dao_MSSQL_Odbc.config
+END
+dao_MySql_ByteFx.config
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/bin/Debug/dao_MySql_ByteFx.config
+END
+dao_Oracle_OracleClient.config
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/bin/Debug/dao_Oracle_OracleClient.config
+END
+providers.config
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/bin/Debug/providers.config
+END
+test.config
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/bin/Debug/test.config
+END
+SqlMap_MSSQL_OleDb.config
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/bin/Debug/SqlMap_MSSQL_OleDb.config
+END
+dao_Multiple_Context.config
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/bin/Debug/dao_Multiple_Context.config
+END
+SqlMap_Access_OleDb.config
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/bin/Debug/SqlMap_Access_OleDb.config
+END
+SqlMap_Oracle_ODP.config
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/bin/Debug/SqlMap_Oracle_ODP.config
+END
+dao_MSSQL_OleDb.config
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/bin/Debug/dao_MSSQL_OleDb.config
+END
+dao_Access_OleDb.config
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/bin/Debug/dao_Access_OleDb.config
+END
+dao_Oracle_ODP.config
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/bin/Debug/dao_Oracle_ODP.config
+END
+SqlMap_MSSQL_SqlClient.config
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/bin/Debug/SqlMap_MSSQL_SqlClient.config
+END
+dao_MSSQL_SqlClient.config
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataAccess.Test/bin/Debug/dao_MSSQL_SqlClient.config
+END

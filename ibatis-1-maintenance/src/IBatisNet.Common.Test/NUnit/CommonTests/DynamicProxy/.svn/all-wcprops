@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/NUnit/CommonTests/DynamicProxy
+END
+IMyInterface.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/NUnit/CommonTests/DynamicProxy/IMyInterface.cs
+END
+ProxyTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/NUnit/CommonTests/DynamicProxy/ProxyTest.cs
+END
+MySecondInterfaceImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/NUnit/CommonTests/DynamicProxy/MySecondInterfaceImpl.cs
+END
+MyInterfaceImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/NUnit/CommonTests/DynamicProxy/MyInterfaceImpl.cs
+END
+IMySecondInterface.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common.Test/NUnit/CommonTests/DynamicProxy/IMySecondInterface.cs
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Transaction
+END
+TransactionScope.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Transaction/TransactionScope.cs
+END
+TransactionOptions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Transaction/TransactionOptions.cs
+END
+IsolationLevel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Transaction/IsolationLevel.cs
+END
+TransactionScopeOptions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.Common/Transaction/TransactionScopeOptions.cs
+END

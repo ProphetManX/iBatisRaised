@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/MySql
+END
+StatementGenerate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/MySql/StatementGenerate.cs
+END
+StatementTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9/branches/ibatis-1-maintenance/src/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/MySql/StatementTest.cs
+END
