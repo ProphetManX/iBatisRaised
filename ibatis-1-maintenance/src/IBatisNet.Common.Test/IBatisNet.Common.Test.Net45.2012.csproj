@@ -4,7 +4,7 @@
     <ProjectType>Local</ProjectType>
     <ProductVersion>8.0.50727</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{5961F3DE-CB5E-40FE-AE89-D00D6E453907}</ProjectGuid>
+    <ProjectGuid>{27071BE4-0C40-4FB1-A362-F05067BDA638}</ProjectGuid>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ApplicationIcon>
@@ -281,11 +281,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\IBatisNet.Common\IBatisNet.Common.Net45.2012.csproj">
-      <Project>{bbc8da4a-ea88-41d9-8b93-929b8f3adade}</Project>
+      <Project>{457c7032-a93a-4f5c-883b-c88e6b6dc188}</Project>
       <Name>IBatisNet.Common.Net45.2012</Name>
     </ProjectReference>
     <ProjectReference Include="..\IBatisNet.DataAccess\IBatisNet.DataAccess.Net45.2012.csproj">
-      <Project>{befc4a45-7df9-40e4-942c-82dc1ba5e708}</Project>
+      <Project>{4cd7bce5-b083-4d06-abc5-1c9aa0bfd938}</Project>
       <Name>IBatisNet.DataAccess.Net45.2012</Name>
     </ProjectReference>
     <ProjectReference Include="..\IBatisNet.DataMapper\IBatisNet.DataMapper.Net45.2012.csproj">
