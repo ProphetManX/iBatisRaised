@@ -26,3 +26,7 @@ tests as well, I believe due to the age of the project there are some problems a
 ## Work in Progress
 This is going to be a pretty big effort on my part, but I am hopeful I can get this working soon enough and people (at least myself)
 will be able to use this project for a more controllable ORM.
+
+
+# ...Nevermind
+for now at least.  I don't have the time or gumption to go through and re-write the functional parts to work in the NetStandard framework.  Currently you can reference iBatisNet45 within NuGet.
